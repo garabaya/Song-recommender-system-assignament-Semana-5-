@@ -1,5 +1,5 @@
 # Song recommender system assignament (Semana 5)
-Jupyter notebook corresponding to the assignament of the Unit: "Recommender Systems" in the Coursera "Machine Learning Foundations: A Case Study Approach" course.
+Jupyter notebook corresponding to the assignament of the Unit: "Recommender Systems" in the University of Washington "Machine Learning Foundations: A Case Study Approach" course.
 
 
 ```python
